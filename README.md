@@ -22,6 +22,7 @@ Project Structure:
 Volatility-Prediction
 
 	├── data/               
-	├── notebooks/                                    
+	├── notebooks/
+	├── src/
 	├── requirements.txt    
 	├── README.md
