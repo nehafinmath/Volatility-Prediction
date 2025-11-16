@@ -17,7 +17,7 @@ Project Goals:
 •	Provide a reusable and extensible codebase
 
 Project Structure:
-Volatility-Prediction/
+Volatility-Prediction
 ├── data/               
 ├── notebooks/                                    
 ├── requirements.txt    
