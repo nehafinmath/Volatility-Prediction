@@ -1,0 +1,13 @@
+Realized-Volatility-Prediction/
+│
+├── data/
+│   ├── raw/
+│
+├── notebooks/
+│   ├── 01_Features Construction and EDA.ipynb
+│   ├── 02_main code.ipynb
+│
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── LICENSE   (optional)
