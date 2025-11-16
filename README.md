@@ -12,16 +12,16 @@ Volatility prediction is crucial for:
 
 Project Goals:
 
-•	Build features from limit order book data
-•	Compute log returns and realized volatility
-•	Train ML models to predict 10-minute future volatility
-•	Evaluate using RMSPE
-•	Provide a reusable and extensible codebase
+	•	Build features from limit order book data
+	•	Compute log returns and realized volatility
+	•	Train ML models to predict 10-minute future volatility
+	•	Evaluate using RMSPE
+	•	Provide a reusable and extensible codebase
 
 Project Structure:
 Volatility-Prediction
 
-├── data/               
-├── notebooks/                                    
-├── requirements.txt    
-└── README.md
+	├── data/               
+	├── notebooks/                                    
+	├── requirements.txt    
+	├── README.md
